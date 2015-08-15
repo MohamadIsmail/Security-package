@@ -1,0 +1,28 @@
+C:\Documents and Settings\XPPRESP3\Desktop\HelloNetworks\Client\bin\Debug\Client.exe
+C:\Documents and Settings\XPPRESP3\Desktop\HelloNetworks\Client\bin\Debug\Client.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\HelloNetworks\Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPPRESP3\Desktop\HelloNetworks\Client\obj\Debug\Client.Clientfrm.resources
+C:\Documents and Settings\XPPRESP3\Desktop\HelloNetworks\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Documents and Settings\XPPRESP3\Desktop\HelloNetworks\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Documents and Settings\XPPRESP3\Desktop\HelloNetworks\Client\obj\Debug\Client.exe
+C:\Documents and Settings\XPPRESP3\Desktop\HelloNetworks\Client\obj\Debug\Client.pdb
+D:\TA work\Networks\Sockets\HelloNetworks\Client\obj\Debug\Client.exe
+D:\TA work\Networks\Sockets\HelloNetworks\Client\obj\Debug\Client.pdb
+D:\FCISCourses\Networks\Sockets\HelloNetworks\Client\obj\Debug\Client.exe
+D:\FCISCourses\Networks\Sockets\HelloNetworks\Client\obj\Debug\Client.pdb
+D:\Network\Sections 2012-2013\Lab04 modified\Lab4-Practical\HelloNetworks\Client\obj\Debug\Client.exe
+D:\Network\Sections 2012-2013\Lab04 modified\Lab4-Practical\HelloNetworks\Client\obj\Debug\Client.pdb
+C:\Users\Hagar Elfiky\Desktop\Subjects\Networks\Network Course Content\Network Course\Network Course\Lab05\Lab5-Practical\HelloNetworks\Client\obj\Debug\Client.exe
+C:\Users\Hagar Elfiky\Desktop\Subjects\Networks\Network Course Content\Network Course\Network Course\Lab05\Lab5-Practical\HelloNetworks\Client\obj\Debug\Client.pdb
+C:\Users\Hagar Elfiky\Desktop\Subjects\Networks\Network Course Content\Network Course\Network Course\Lab05\Lab5-Practical\HelloNetworks\Client\bin\Debug\Client.exe
+C:\Users\Hagar Elfiky\Desktop\Subjects\Networks\Network Course Content\Network Course\Network Course\Lab05\Lab5-Practical\HelloNetworks\Client\bin\Debug\Client.pdb
+C:\Users\Hagar Elfiky\Desktop\Subjects\Networks\Network Course Content\Network Course\Network Course\Lab05\Lab5-Practical\HelloNetworks\Client\obj\Debug\Client.Clientfrm.resources
+C:\Users\Hagar Elfiky\Desktop\Subjects\Networks\Network Course Content\Network Course\Network Course\Lab05\Lab5-Practical\HelloNetworks\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Hagar Elfiky\Desktop\Subjects\Networks\Network Course Content\Network Course\Network Course\Lab05\Lab5-Practical\HelloNetworks\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\FCIS\Subjects\4th year\First term\Computer networks\Labs\Lab5-Practical\HelloNetworks\Client\obj\Debug\Client.exe
+D:\FCIS\Subjects\4th year\First term\Computer networks\Labs\Lab5-Practical\HelloNetworks\Client\obj\Debug\Client.pdb
+D:\FCIS\Subjects\4th year\First term\Computer networks\Labs\Lab5-Practical\HelloNetworks\Client\bin\Debug\Client.exe
+D:\FCIS\Subjects\4th year\First term\Computer networks\Labs\Lab5-Practical\HelloNetworks\Client\bin\Debug\Client.pdb
+D:\FCIS\Subjects\4th year\First term\Computer networks\Labs\Lab5-Practical\HelloNetworks\Client\obj\Debug\Client.Clientfrm.resources
+D:\FCIS\Subjects\4th year\First term\Computer networks\Labs\Lab5-Practical\HelloNetworks\Client\obj\Debug\Client.Properties.Resources.resources
+D:\FCIS\Subjects\4th year\First term\Computer networks\Labs\Lab5-Practical\HelloNetworks\Client\obj\Debug\Client.csproj.GenerateResource.Cache

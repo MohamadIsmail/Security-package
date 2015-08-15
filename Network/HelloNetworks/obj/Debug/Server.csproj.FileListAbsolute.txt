@@ -1,0 +1,25 @@
+C:\Documents and Settings\XPPRESP3\Desktop\HelloNetworks\HelloNetworks\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPPRESP3\Desktop\HelloNetworks\HelloNetworks\obj\Debug\HelloNetworks.Properties.Resources.resources
+C:\Documents and Settings\XPPRESP3\Desktop\HelloNetworks\HelloNetworks\obj\Debug\HelloNetworks.ServerFrm.resources
+C:\Documents and Settings\XPPRESP3\Desktop\HelloNetworks\HelloNetworks\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Documents and Settings\XPPRESP3\Desktop\HelloNetworks\HelloNetworks\bin\Debug\HelloNetworks.exe
+C:\Documents and Settings\XPPRESP3\Desktop\HelloNetworks\HelloNetworks\bin\Debug\HelloNetworks.pdb
+C:\Documents and Settings\XPPRESP3\Desktop\HelloNetworks\HelloNetworks\obj\Debug\HelloNetworks.exe
+C:\Documents and Settings\XPPRESP3\Desktop\HelloNetworks\HelloNetworks\obj\Debug\HelloNetworks.pdb
+D:\FCISCourses\Networks\Sockets\HelloNetworks\HelloNetworks\obj\Debug\HelloNetworks.exe
+D:\FCISCourses\Networks\Sockets\HelloNetworks\HelloNetworks\obj\Debug\HelloNetworks.pdb
+C:\Users\Hagar Elfiky\Desktop\Subjects\Networks\Network Course Content\Network Course\Network Course\Lab05\Lab5-Practical\HelloNetworks\HelloNetworks\bin\Debug\HelloNetworks.exe
+C:\Users\Hagar Elfiky\Desktop\Subjects\Networks\Network Course Content\Network Course\Network Course\Lab05\Lab5-Practical\HelloNetworks\HelloNetworks\bin\Debug\HelloNetworks.pdb
+C:\Users\Hagar Elfiky\Desktop\Subjects\Networks\Network Course Content\Network Course\Network Course\Lab05\Lab5-Practical\HelloNetworks\HelloNetworks\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Hagar Elfiky\Desktop\Subjects\Networks\Network Course Content\Network Course\Network Course\Lab05\Lab5-Practical\HelloNetworks\HelloNetworks\obj\Debug\HelloNetworks.Properties.Resources.resources
+C:\Users\Hagar Elfiky\Desktop\Subjects\Networks\Network Course Content\Network Course\Network Course\Lab05\Lab5-Practical\HelloNetworks\HelloNetworks\obj\Debug\HelloNetworks.ServerFrm.resources
+C:\Users\Hagar Elfiky\Desktop\Subjects\Networks\Network Course Content\Network Course\Network Course\Lab05\Lab5-Practical\HelloNetworks\HelloNetworks\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Hagar Elfiky\Desktop\Subjects\Networks\Network Course Content\Network Course\Network Course\Lab05\Lab5-Practical\HelloNetworks\HelloNetworks\obj\Debug\HelloNetworks.exe
+C:\Users\Hagar Elfiky\Desktop\Subjects\Networks\Network Course Content\Network Course\Network Course\Lab05\Lab5-Practical\HelloNetworks\HelloNetworks\obj\Debug\HelloNetworks.pdb
+D:\FCIS\Subjects\4th year\First term\Computer networks\Labs\Lab5-Practical\HelloNetworks\HelloNetworks\obj\Debug\HelloNetworks.exe
+D:\FCIS\Subjects\4th year\First term\Computer networks\Labs\Lab5-Practical\HelloNetworks\HelloNetworks\obj\Debug\HelloNetworks.pdb
+D:\FCIS\Subjects\4th year\First term\Computer networks\Labs\Lab5-Practical\HelloNetworks\HelloNetworks\bin\Debug\HelloNetworks.exe
+D:\FCIS\Subjects\4th year\First term\Computer networks\Labs\Lab5-Practical\HelloNetworks\HelloNetworks\bin\Debug\HelloNetworks.pdb
+D:\FCIS\Subjects\4th year\First term\Computer networks\Labs\Lab5-Practical\HelloNetworks\HelloNetworks\obj\Debug\HelloNetworks.Properties.Resources.resources
+D:\FCIS\Subjects\4th year\First term\Computer networks\Labs\Lab5-Practical\HelloNetworks\HelloNetworks\obj\Debug\HelloNetworks.ServerFrm.resources
+D:\FCIS\Subjects\4th year\First term\Computer networks\Labs\Lab5-Practical\HelloNetworks\HelloNetworks\obj\Debug\Server.csproj.GenerateResource.Cache
